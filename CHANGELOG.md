@@ -1,3 +1,8 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/mengxiong10/vue2-datepicker/compare/v1.0.0...v1.0.1) (2022-04-01)
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/mengxiong10/vue2-datepicker/compare/v3.10.4...v1.0.0) (2022-04-01)
 
